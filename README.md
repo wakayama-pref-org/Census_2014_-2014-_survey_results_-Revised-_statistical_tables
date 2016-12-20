@@ -1,4 +1,4 @@
-# Census_2014_-2014-_survey_results_-Revised-_statistical_tables
+# census_2014_-2014-_survey_results_-revised-_statistical_tables
 　【和歌山県　工業統計調査 です。】
 ◆工業統計調査とは
 工業統計調査は、我が国の製造業の実態を明らかにすることを目的とし、経済産業省所管のもとに実施されています。 
